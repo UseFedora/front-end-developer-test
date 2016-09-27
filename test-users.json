@@ -1,0 +1,16 @@
+{
+  "guests": [
+    {
+      "name": "Cain Marko",
+      "email": "cmarko@xmen.com"
+    },
+    {
+      "name": "Rudy Littlegye",
+      "email": "rudy@notredame.edu"
+    },
+    {
+      "email": "carlie@maybe.com",
+      "name": "Carlie Fiorina"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+body {
+	font-size:16px;
+}
+
+// Header Styles
+header {
+	background:black;
+	text-align: center;
+	padding:20px 0;
+}
+
+header h1 {
+		padding:0;
+		margin:0;
+		color:white;
+		text-transform: uppercase;
+		font-size:14px;
+	}
+
+// Content Styles
+main {
+	padding:100px 0;
+	}
+	
+	
+// Sidebar Left
+main .sidebar-left form {
+	margin-bottom:20px;
+	padding:30px;
+	background:#eaeaea;
+	border:1px solid #ccc;
+  }
+		
+main .sidebar-left form input {
+	width:100%;
+	margin-bottom:10px;
+	}
+
+main .sidebar-left .welcome-message {
+	padding:30px;
+	background:#eaeaea;
+	border:1px solid #ccc;
+	}
+
+
+// Main Content
+main .main-content .registrants {
+		padding:30px;
+		background:#eaeaea;
+		border:1px solid #ccc;
+	}
