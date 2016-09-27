@@ -1,6 +1,6 @@
 # Teachable Front-end Developer Test
 
-Instructions for this challenge: https://docs.google.com/document/d/1kj2ZUHSaoJuUwYBnVfahHdz5wCJ7vu86iF-tNs0BS5c/edit#
+Instructions for this test: https://docs.google.com/document/d/1kj2ZUHSaoJuUwYBnVfahHdz5wCJ7vu86iF-tNs0BS5c/edit#
 
 To setup and get started, do the following:
 
